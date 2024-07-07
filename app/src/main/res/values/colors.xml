@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#48bd77</color>
+    <color name="tick_bg">#52b974</color>
+    <color name="search_text_color">#cdcdcd</color>
+    <color name="item_text_color">#8f8f8f</color>
+    <color name="no_data">#99BF2626</color>
+</resources>
